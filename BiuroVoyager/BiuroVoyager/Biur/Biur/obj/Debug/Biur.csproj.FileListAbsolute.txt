@@ -1,0 +1,126 @@
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\bin\Debug\Biur.exe.config
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\bin\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\bin\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\obj\Debug\Biur.csprojResolveAssemblyReference.cache
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\obj\Debug\MainWindow.g.cs
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\obj\Debug\App.g.cs
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\obj\Debug\Biur_MarkupCompile.cache
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\obj\Debug\Biur_MarkupCompile.lref
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\obj\Debug\MainWindow.baml
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\obj\Debug\Biur.g.resources
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\obj\Debug\Biur.Properties.Resources.resources
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\obj\Debug\Biur.csproj.GenerateResource.Cache
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\obj\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\NoweBiur\Biur\Biur\obj\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\bin\Debug\Biur.exe.config
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\obj\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\obj\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\bin\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\bin\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\obj\Debug\Biur.csprojResolveAssemblyReference.cache
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\obj\Debug\MainWindow.g.cs
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\obj\Debug\App.g.cs
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\obj\Debug\Biur_MarkupCompile.cache
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\obj\Debug\Biur_MarkupCompile.lref
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\obj\Debug\MainWindow.baml
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\obj\Debug\Biur.g.resources
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\obj\Debug\Biur.Properties.Resources.resources
+C:\Users\Kosiasty\Desktop\NoweBiur,troche zmian\Biur\Biur\obj\Debug\Biur.csproj.GenerateResource.Cache
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\bin\Debug\Biur.exe.config
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\obj\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\obj\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\obj\Debug\Biur.csprojResolveAssemblyReference.cache
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\obj\Debug\MainWindow.g.cs
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\obj\Debug\App.g.cs
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\obj\Debug\Biur_MarkupCompile.cache
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\obj\Debug\Biur_MarkupCompile.lref
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\obj\Debug\MainWindow.baml
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\bin\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\bin\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\obj\Debug\Biur.g.resources
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\obj\Debug\Biur.Properties.Resources.resources
+C:\Users\Kosiasty\Desktop\NoweBiurV3\Biur\Biur\obj\Debug\Biur.csproj.GenerateResource.Cache
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\bin\Debug\Biur.exe.config
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\obj\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\obj\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\bin\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\bin\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\obj\Debug\Biur.csprojResolveAssemblyReference.cache
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\obj\Debug\MainWindow.g.cs
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\obj\Debug\App.g.cs
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\obj\Debug\Biur_MarkupCompile.cache
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\obj\Debug\Biur_MarkupCompile.lref
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\obj\Debug\MainWindow.baml
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\obj\Debug\Biur.g.resources
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\obj\Debug\Biur.Properties.Resources.resources
+C:\Users\Kosiasty\Desktop\BiurV4\NoweBiurV3\Biur\Biur\obj\Debug\Biur.csproj.GenerateResource.Cache
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\bin\Debug\Biur.exe.config
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\obj\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\obj\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\bin\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\bin\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\obj\Debug\Biur.csprojResolveAssemblyReference.cache
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\obj\Debug\MainWindow.g.cs
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\obj\Debug\App.g.cs
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\obj\Debug\Biur_MarkupCompile.cache
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\obj\Debug\Biur_MarkupCompile.lref
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\obj\Debug\MainWindow.baml
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\obj\Debug\Biur.g.resources
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\obj\Debug\Biur.Properties.Resources.resources
+C:\Users\Kosiasty\Desktop\BiurV5\NoweBiurV5\Biur\Biur\obj\Debug\Biur.csproj.GenerateResource.Cache
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\bin\Debug\Biur.exe.config
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\obj\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\obj\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\bin\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\bin\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\obj\Debug\Biur.csprojResolveAssemblyReference.cache
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\obj\Debug\MainWindow.g.cs
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\obj\Debug\App.g.cs
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\obj\Debug\Biur_MarkupCompile.cache
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\obj\Debug\Biur_MarkupCompile.lref
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\obj\Debug\MainWindow.baml
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\obj\Debug\Biur.g.resources
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\obj\Debug\Biur.Properties.Resources.resources
+C:\Users\Kosiasty\Desktop\BiurV6\NoweBiurV6\Biur\Biur\obj\Debug\Biur.csproj.GenerateResource.Cache
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\bin\Debug\Biur.exe.config
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\obj\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\obj\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\bin\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\bin\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\obj\Debug\Biur.csprojResolveAssemblyReference.cache
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\obj\Debug\MainWindow.g.cs
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\obj\Debug\App.g.cs
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\obj\Debug\Biur_MarkupCompile.cache
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\obj\Debug\Biur_MarkupCompile.lref
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\obj\Debug\MainWindow.baml
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\obj\Debug\Biur.g.resources
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\obj\Debug\Biur.Properties.Resources.resources
+C:\Users\Kosiasty\Desktop\BiurV7\NoweBiurV7\Biur\Biur\obj\Debug\Biur.csproj.GenerateResource.Cache
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\bin\Debug\Biur.exe.config
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\obj\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\obj\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\bin\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\bin\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\obj\Debug\Biur.csprojResolveAssemblyReference.cache
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\obj\Debug\MainWindow.g.cs
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\obj\Debug\App.g.cs
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\obj\Debug\Biur_MarkupCompile.cache
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\obj\Debug\Biur_MarkupCompile.lref
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\obj\Debug\MainWindow.baml
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\obj\Debug\Biur.g.resources
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\obj\Debug\Biur.Properties.Resources.resources
+C:\Users\Kosiasty\Desktop\BiuroGotowe\BiuroGot\Biur\Biur\obj\Debug\Biur.csproj.GenerateResource.Cache
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\bin\Debug\Biur.exe.config
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\obj\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\obj\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\bin\Debug\Biur.exe
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\bin\Debug\Biur.pdb
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\obj\Debug\Biur.csprojResolveAssemblyReference.cache
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\obj\Debug\MainWindow.g.cs
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\obj\Debug\App.g.cs
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\obj\Debug\Biur_MarkupCompile.cache
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\obj\Debug\Biur_MarkupCompile.lref
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\obj\Debug\MainWindow.baml
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\obj\Debug\Biur.g.resources
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\obj\Debug\Biur.Properties.Resources.resources
+C:\Users\Kosiasty\Desktop\BiuroVoyager\BiuroVoyager\Biur\Biur\obj\Debug\Biur.csproj.GenerateResource.Cache
